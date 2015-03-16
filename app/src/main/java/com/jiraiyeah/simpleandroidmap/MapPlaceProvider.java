@@ -28,7 +28,7 @@ import java.util.List;
 public class MapPlaceProvider extends ContentProvider {
 
   public static final String AUTHORITY = "com.jiraiyeah.simpleandroidmap.MapPlaceProvider";
-  public static final String SERVER_KEY = "AIzaSyCbGuUSx2iRls6qXIRMtTmWB9f3ZwlJBXo";
+  public static final String SERVER_KEY = "YOUR_SERVER_KEY";
 
   public static final String PLACE_LIST_PATH = "place_list";
   public static final String DETAILS_PATH = "details";

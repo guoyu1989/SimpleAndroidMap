@@ -39,7 +39,7 @@
 
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyA0BZzscvnNR5imnhkJGjbDFVpXqy6KYew" />
+            android:value="YOUR_ANDROID_API_KEY" />
         <provider
             android:name=".MapPlaceProvider"
             android:authorities="com.jiraiyeah.simpleandroidmap.MapPlaceProvider"
